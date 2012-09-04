@@ -1,0 +1,8 @@
+C:\Users\James\Documents\Visual Studio 2010\Projects\BlackJackGame\BlackJackGame\BlackJackGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Documents\Visual Studio 2010\Projects\BlackJackGame\BlackJackGame\BlackJackGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\James\Documents\Visual Studio 2010\Projects\BlackJackGame\BlackJackGame\BlackJackGame\bin\x86\Debug\Content\playing-card-deck.xnb
+C:\Users\James\Documents\Visual Studio 2010\Projects\BlackJackGame\BlackJackGame\BlackJackGame\bin\x86\Debug\BlackJackGame.exe
+C:\Users\James\Documents\Visual Studio 2010\Projects\BlackJackGame\BlackJackGame\BlackJackGame\bin\x86\Debug\BlackJackGame.pdb
+C:\Users\James\Documents\Visual Studio 2010\Projects\BlackJackGame\BlackJackGame\BlackJackGame\obj\x86\Debug\BlackJackGame.exe
+C:\Users\James\Documents\Visual Studio 2010\Projects\BlackJackGame\BlackJackGame\BlackJackGame\obj\x86\Debug\BlackJackGame.pdb
+C:\Users\James\Documents\Visual Studio 2010\Projects\BlackJackGame\BlackJackGame\BlackJackGame\bin\x86\Debug\Content\Chess.board.fabric.xnb
